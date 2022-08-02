@@ -1,5 +1,4 @@
 # Akarin-bot
-Akarin es un bot de discord multiusos para comunidades de Minecraft 
 
 Akarin bot es un bot para comunidades de Minecraft completamente modular, lo que significa que todas las funciones y comandos se pueden habilitar/deshabilitar a su gusto, lo que lo hace completamente personalizable. 
 
