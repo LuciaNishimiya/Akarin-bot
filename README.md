@@ -7,7 +7,7 @@ La instalación es fácil y no necesitara saber nada sobre programación.
 
 
 Funciones:
-• Dar recompensas a tus jugadores en Minecraft por subir videos a tiktok de tu servidor 
-• Creación de tickets 
-• Canal de Sugerencias 
-• Mensajes de bienvenida y despedida 
+- Dar recompensas a tus jugadores en Minecraft por subir videos a tiktok de tu servidor 
+- Creación de tickets 
+- Canal de Sugerencias 
+- Mensajes de bienvenida y despedida 
